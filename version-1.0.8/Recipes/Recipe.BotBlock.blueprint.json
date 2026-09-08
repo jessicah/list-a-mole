@@ -17,6 +17,6 @@
 		"Fuel": "ScrapMetal",
 		"CyclesFuelLasts": 1,
 		"FuelCapacity": 5,
-		"Icon": "Mole/Depos/BotBlocks"
+		"Icon": "Mole/Warehouses/BotBlocks"
 	}
 }

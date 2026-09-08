@@ -19,9 +19,9 @@
 		"ContainerMaterial": "",
 		"CarryingAnimation": "CarryInHands",
 		"Weight": 1,
-		"GoodGroupId": "Depos",
+		"GoodGroupId": "Warehouses",
 		"GoodOrder": 900020,
 		"ForceImport": false,
-		"Icon": "Mole/Depos/BotBlocks"
+		"Icon": "Mole/Warehouses/BotBlocks"
 	}
 }

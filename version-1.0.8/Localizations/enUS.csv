@@ -1,8 +1,7 @@
 ID,Text,Comment
 HR,======================================================================,
-Group.Depos,Depos,
+Group.Warehouses,Warehouses,
 Group.Drinks,Drinks,
-Group.Metal,Metal,
 Group.Piles,Piles,
 Group.Tanks,Tanks,
 HR,======================================================================,
