@@ -1,6 +1,6 @@
 {
-  "GoodGroupSpec":
+  "GoodGroupSpec#delete":
   {
-    "SingleResourceGroup": false
+    
   }
 }
