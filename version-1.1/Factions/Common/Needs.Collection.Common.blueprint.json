@@ -2,6 +2,6 @@
   "NeedCollectionSpec":
   {
     "CollectionId": "Common",
-    "Needs": []
+    "Needs": ["Hedge"]
   }
 }
